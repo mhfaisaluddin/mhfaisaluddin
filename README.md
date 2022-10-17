@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a data science enthusiast, currently a student at dibimbing.id
+I'm a data science enthusiast, passionate about data manipulation, data visualization, and machine learning programming.
 <!--
 **mhfaisaluddin/mhfaisaluddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
